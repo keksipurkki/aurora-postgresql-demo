@@ -21,7 +21,7 @@ class DatabaseStack extends cdk.Stack {
     const cluster = new rds.DatabaseCluster(this, name, {
       engine: rds.DatabaseClusterEngine.AURORA_POSTGRESQL,
       masterUser: {
-        username: 'admin'
+        username: 'master'
       },
       clusterIdentifier: name,
       instances: 2,
