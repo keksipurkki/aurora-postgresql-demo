@@ -1,0 +1,4 @@
+{
+  "app": "ts-node src/main",
+  "profile": "keksipurkki"
+}

@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "moduleResolution": "node",
+    "strictNullChecks": true,
+    "alwaysStrict": true,
+    "target": "es2018"
+  }
+}
