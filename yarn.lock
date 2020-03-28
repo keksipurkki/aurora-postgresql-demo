@@ -105,6 +105,17 @@
     "@aws-cdk/core" "1.31.0"
     constructs "^2.0.0"
 
+"@aws-cdk/aws-route53@^1.31.0":
+  version "1.31.0"
+  resolved "https://registry.yarnpkg.com/@aws-cdk/aws-route53/-/aws-route53-1.31.0.tgz#76861d192922cf3c05dbc47d4e8c3f87cb500f58"
+  integrity sha512-Lx4EjjW3kt5hQ0cZuw0HlOtA6B2Z+DD1RJAFhVpwBClbA59xf2/Ry0yKnyDeQzkDcosf3k758VEpZwSELMY8yw==
+  dependencies:
+    "@aws-cdk/aws-ec2" "1.31.0"
+    "@aws-cdk/aws-logs" "1.31.0"
+    "@aws-cdk/core" "1.31.0"
+    "@aws-cdk/cx-api" "1.31.0"
+    constructs "^2.0.0"
+
 "@aws-cdk/aws-s3-assets@1.31.0":
   version "1.31.0"
   resolved "https://registry.yarnpkg.com/@aws-cdk/aws-s3-assets/-/aws-s3-assets-1.31.0.tgz#3a4f7dcb9020a139f74c100e52693823ea5c240a"
